@@ -5,14 +5,14 @@
       "fingerprint": "0x3030303031313131",
       "firstName": "Abcde",
       "siteCode": "Site1",
-      "isSync": False
+      "isSync": false
     },
     {
       "id": 2,
       "fingerprint": "0x3030303031313131",
       "firstName": "Abcde",
       "siteCode": "Site1",
-      "isSync": False
+      "isSync": false
     }
   ]
 }
