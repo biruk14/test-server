@@ -4,13 +4,15 @@
       "id": 1,
       "fingerprint": "0x3030303031313131",
       "firstName": "Abcde",
-      "siteCode": "Site1"
+      "siteCode": "Site1",
+      "isSync": False
     },
     {
       "id": 2,
       "fingerprint": "0x3030303031313131",
       "firstName": "Abcde",
-      "siteCode": "Site1"
+      "siteCode": "Site1",
+      "isSync": False
     }
   ]
 }
