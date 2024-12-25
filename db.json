@@ -5,6 +5,12 @@
         "fingerprint": "0x3030303031313131",
         "firstName": "Abcde",
         "siteCode": "Site1"
+      },
+    {
+        "id": 2,
+        "fingerprint": "0x3030303031313131",
+        "firstName": "Abcde",
+        "siteCode": "Site1"
       }
-    ]
+  ]
 }
